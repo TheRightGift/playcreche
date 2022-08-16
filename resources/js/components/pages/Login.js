@@ -156,9 +156,10 @@ function Login() {
                     <div className="row" id="loginContainerDiv">
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-7">
                             <div>
-                                <Link to="/" id="loginBackArrowLink">
+                                <Link to="/" id="loginBackArrowLink" className="d-none d-md-block">
                                     &#8592;
                                 </Link>
+                                <p className="whiteText">PLAYCRECHE</p>
                             </div>
                             <h2 className="text-primary" id="welcomeHeaderTxt">
                                 Welcome!
@@ -346,7 +347,7 @@ function Login() {
                                 className="col-xs-12 col-sm-12 col-md-12 col-lg-4 rmPaddingRight"
                                 id="loginRightReservedDiv"
                             >
-                                <p className="loginRightReservedP">Daycare</p>
+                                <p className="loginRightReservedP">PlayCreche</p>
                                 <p className="loginRightReservedP">
                                     All rights reserved (c) 2022
                                 </p>
@@ -375,7 +376,7 @@ function Login() {
                                 className="col-4 rmPaddingRight"
                                 id="loginRightReservedDiv"
                             >
-                                <p className="loginRightReservedP">Daycare</p>
+                                <p className="loginRightReservedP">PlayCreche</p>
                                 <p className="loginRightReservedP">
                                     All rights reserved (c) 2022
                                 </p>

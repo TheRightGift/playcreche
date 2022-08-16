@@ -20,6 +20,9 @@ body {
     margin-left: 0;
     padding: 0;
 }
+.whiteText {
+    color: #fff;
+}
 #chat .divider {
     border-left: none !important;
 }
@@ -556,7 +559,7 @@ td span.btnTime {
     background-color: rgba(19, 100, 220, 0.34);
     padding-top: 5.5vh;
     padding-bottom: 2.8vh;
-    width: 104%;
+    /* width: 104%; */
 }
 #loginGeneralDiv {
     width: 100.7vw;
@@ -1087,7 +1090,7 @@ td span.btnTime {
         background-color: rgba(19, 100, 220, 0.34);
         padding-top: 5.5vh;
         padding-bottom: 2.8vh;
-        width: 111.3%;
+        /* width: 111.3%; */
     }
     #landJoinUsTitle {
         font-size: 1.8rem;
@@ -1542,6 +1545,13 @@ td span.btnTime {
     }
 
     /* Login Section */
+    #loginGeneralDiv {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    #loginGeneralDiv .col-9 {
+        padding-left: 0;
+    }
     #childBgImgDiv {
         background-image: url("../assets/child1.png");
         background-position: center;
@@ -1624,7 +1634,7 @@ td span.btnTime {
         background-color: rgba(19, 100, 220, 0.34);
         padding-top: 5.5vh;
         padding-bottom: 2.8vh;
-        width: 116.5%;
+        /* width: 116.5%; */
     }
 }
 #parent .bg-pink {

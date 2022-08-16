@@ -93,7 +93,7 @@ export default function App(props) {
                         </ul>
                         <div className="align-self-center d-none d-md-block">
                             <p className="text-center text-inactive">
-                                <span className="fw-bolder">DAYCARE</span>, <span className="opacity-75">All rights reserved, {new Date().getFullYear()}.</span>
+                                <span className="fw-bolder">PLAYCRECHE</span>, <span className="opacity-75">All rights reserved, {new Date().getFullYear()}.</span>
                             </p>
                         </div>
 
@@ -107,7 +107,7 @@ export default function App(props) {
                     <footer style={{ backgroundColor: type == "staff" ? '#1364DC' : '#FF70A6' }} className="dashFooter">
                         <div className="align-self-center d-sm-block d-md-none">
                             <p className="text-center text-inactive m-0">
-                                <span className="fw-bolder">DAYCARE</span>, <span className="opacity-75">All rights reserved, {new Date().getFullYear()}.</span>
+                                <span className="fw-bolder">PLAYCRECHE</span>, <span className="opacity-75">All rights reserved, {new Date().getFullYear()}.</span>
                             </p>
                         </div>
                     </footer>

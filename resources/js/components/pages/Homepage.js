@@ -18,7 +18,7 @@ export default function Homepage() {
                 <div id="home" className="row">
                     <div className="col-xs-12 col-sm-12 col-md-12 col-lg-7">
                         <p className="text-primary landWelcomeTitle">
-                            WELCOME TO DAYCARE
+                            WELCOME TO PLAYCRECHE
                         </p>
                         <p className="landWelcomeTxt">
                             We take pride in every child as they are all unique
@@ -630,7 +630,7 @@ export default function Homepage() {
                 <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4">
                     <i className="fa-solid fa-envelope landOrgDetailsIcons d-flex justify-content-center"></i>
                     <p className="d-flex justify-content-center">
-                        daycare@gmail.com
+                        info@playcreche.com.ng
                     </p>
                 </div>
                 <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4">

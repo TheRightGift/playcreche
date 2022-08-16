@@ -1,0 +1,4 @@
+const staff = [{ "id": 1, "surname": "Dredi", "last_name": "Tuckett", "email": "dtuckett0@goo.ne.jp", "gender": "Female", "phone": "688 667 6149", "dob": "2/5/2022", "marital_status": "Married", "address": "4062 Knutson Circle", "city": "Morong", "state": null, "passport": "https://robohash.org/dolorumveniamreprehenderit.png?size=50x50&set=set1", "credentials": "UtAtDolor.png", "credential_type": "SSCE" },
+{ "id": 2, "surname": "Nat", "last_name": "Farmloe", "email": "nfarmloe1@dailymotion.com", "gender": "Female", "phone": "613 722 0200", "dob": "4/27/2022", "marital_status": "Single", "address": "1094 American Alley", "city": "Arkalyk", "state": null, "passport": "https://robohash.org/ipsaculpasit.png?size=50x50&set=set1", "credentials": "Quis.ppt", "credential_type": "SSCE" },
+]
+export default staff;

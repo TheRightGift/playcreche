@@ -159,7 +159,7 @@ function Login() {
                                 <Link to="/" id="loginBackArrowLink" className="d-none d-md-block">
                                     &#8592;
                                 </Link>
-                                <p className="whiteText">PLAYCRECHE</p>
+                                <p className="whiteText">PLAYCRECHE &trade;</p>
                             </div>
                             <h2 className="text-primary" id="welcomeHeaderTxt">
                                 Welcome!
@@ -347,7 +347,7 @@ function Login() {
                                 className="col-xs-12 col-sm-12 col-md-12 col-lg-4 rmPaddingRight"
                                 id="loginRightReservedDiv"
                             >
-                                <p className="loginRightReservedP">PlayCreche</p>
+                                <p className="loginRightReservedP">PLAYCRECHE &trade;</p>
                                 <p className="loginRightReservedP">
                                     All rights reserved (c) 2022
                                 </p>
@@ -376,7 +376,7 @@ function Login() {
                                 className="col-4 rmPaddingRight"
                                 id="loginRightReservedDiv"
                             >
-                                <p className="loginRightReservedP">PlayCreche</p>
+                                <p className="loginRightReservedP">PLAYCRECHE &trade;</p>
                                 <p className="loginRightReservedP">
                                     All rights reserved (c) 2022
                                 </p>

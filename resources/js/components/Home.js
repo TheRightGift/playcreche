@@ -80,7 +80,7 @@ function Landing() {
             <Outlet />
             <footer className="" id="landFooter">
                 <p className="d-flex justify-content-center landFooterTxt">
-                    <span className="landFooterDaycareTxt">PLAYCRECHE,</span> All
+                    <span className="landFooterDaycareTxt">PLAYCRECHE &trade;,</span> All
                     rights reserved, 2022
                 </p>
             </footer>
